@@ -1,0 +1,13 @@
+<html> 
+<head>
+</head>
+<body> 
+<h1>The Electric Nugget Squad</h1> 
+
+<h2> This is The Electric Nugget Squad's Team Website!!! </h2> 
+<br> 
+These are the teams and scores!!!! <br> 
+<iframe src = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSFYuf9_5zXF3Ef_LbvkSQ74VmDg1y2fX9vc679YjUDB7V_5SZ9JsVoGKkl7O5CC10GRtTwRBR187Hi/pubhtml"
+height=800 width=1200></iframe> 
+</body> 
+</html>
